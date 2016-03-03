@@ -9,8 +9,6 @@
 
 import UIKit
 
-//var str = "Hello, playground"
-
 var i  = 1
 
 while i <= 100 {
