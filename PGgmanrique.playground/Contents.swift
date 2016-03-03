@@ -9,9 +9,7 @@
 
 import UIKit
 
-var i  = 1
-
-while i <= 100 {
+for var i = 1; i <= 100; i++ {
     if  i % 5 == 0 {
         print("\(i) Bingo!!!")
     }
@@ -28,5 +26,4 @@ while i <= 100 {
         print ("\(i) Viva Swift !!!")
     }
     
-    i += 1
 }
