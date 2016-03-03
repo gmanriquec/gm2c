@@ -12,20 +12,24 @@ import UIKit
 
 
 for var i in 0...100 {
-    if  i % 5 == 0 {
-        print("\(i) Bingo!!!")
-    }
+    if i == 0 {
+        print ("\(i) no cumple con ningun criterio")
+    } else {
+        if  i % 5 == 0 {
+            print("\t\(i) Bingo !!!")
+        }
     
-    if i % 2 == 0 {
-        print ("\(i) es par")
-    }
+        if i % 2 == 0 {
+        print ("\(i) es par !!!")
+        }
     
-    if i % 2 != 0 {
-        print("\(i) es impar")
-    }
+        if i % 2 != 0 {
+        print("\(i) es impar !!!")
+        }
     
-    if i >= 30 && i <= 40 {
-        print ("\(i) Viva Swift !!!")
+        if i >= 30 && i <= 40 {
+        print ("\t\(i) Viva Swift !!!")
+        }
     }
     
 }
