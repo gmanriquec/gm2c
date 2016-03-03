@@ -10,7 +10,8 @@
 import UIKit
 
 
-for var i = 1; i <= 100; i += 1 {
+
+for var i in 1...100 {
     if  i % 5 == 0 {
         print("\(i) Bingo!!!")
     }
