@@ -2,7 +2,7 @@
 //  Datos.swift
 //  Hamburguesas
 //
-//  Created by Victor Manuel Hernandez R on 29/03/16.
+//  Created by Gabriela Manrique on 29/03/16.
 //  Copyright © 2016 Gabriela Manrique. All rights reserved.
 //
 
