@@ -27,7 +27,7 @@ class ColeccionDePaises{
 
 class ColeccionDeHamburguesa: ColeccionDePaises {
     
-    let hamburguesas = ["Bozzi Prime Steak Burger - Mexico", "Alfredo's Barbacoa - España", "Back Angus - Estados Unidos", "Hatrick - Suiza", "Burgueresse - Holanda", "Berlin Burger International - Alemania", "Blend - París", "Boom Burger - Londres", "Yakiniku Burger - Tokio", "Strolghino - Roma", "Negro Carbón - Argentina", "Bacon Cheseburger - Bogota", "Hamburguesa de Ternera - India", "Let´s Burger - China", "Hamburguesa clásica de picaña BBQ - Brasil", "Submarino do Portas - Portugal", "Tteok galbi - Corea", "Bifteki - Grecia", "Bachelor - Belgica", "Hamburguesa de Emu - Australia"]
+    let hamburguesas = ["Bozzi Prime Steak Burger", "Alfredo's Barbacoa", "Back Angus", "Hatrick", "Burgueresse", "Berlin Burger International", "Blend", "Boom Burger", "Yakiniku Burger", "Strolghino", "Negro Carbón", "Bacon Cheseburger", "Hamburguesa de Ternera", "Let´s Burger ", "Hamburguesa clásica de picaña BBQ", "Submarino do Portas", "Tteok galbi", "Bifteki", "Bachelor", "Hamburguesa de Emu"]
 
     /*let posicion1: Int
     
