@@ -71,6 +71,6 @@ class Auto{
 
 var auto = Auto()
 
-for var i = 1; i <= 20; i += 1{
+for i in 1...20{
     auto.cambioDeVelocidad()
 }
